@@ -10,5 +10,5 @@ The script lazy load images without using any external javascript library. It is
 2. Go to Network tab
 3. Select Img
 
-Image will only be displayed when just before we are about to enter to the image section.
+Image will only be displayed just before we are about to enter to the image section.
  
