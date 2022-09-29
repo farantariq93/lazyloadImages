@@ -4,5 +4,11 @@ The script lazy load images without using any external javascript library. It is
 ## Usage
 1. Change src attribute of image to data-src
 2. Add class="lazy" to image element
-Example: <img class="lazy" data-src="https://via.placeholder.com/300/000.png/fff/O?text=I+Will+Lazy+Load">
+
+## How to Test
+1. Press Ctrl+Shift+I on the web page
+2. Go to Network tab
+3. Select Img
+
+Image will only be displayed when just before we are about to enter to the image section.
  
